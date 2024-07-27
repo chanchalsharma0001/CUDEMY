@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/CUDEMY/static/css/main.84ad2ff4.css",
+    "main.js": "/CUDEMY/static/js/main.e7a004d0.js",
+    "static/js/787.b6218c4a.chunk.js": "/CUDEMY/static/js/787.b6218c4a.chunk.js",
+    "static/media/background.jpg": "/CUDEMY/static/media/background.bd80dc1b657b66d295fe.jpg",
+    "static/media/video2.jpg": "/CUDEMY/static/media/video2.4f7a054ab259819e8d18.jpg",
+    "static/media/img2.jpg": "/CUDEMY/static/media/img2.f1768c0f617f0fb7b0a0.jpg",
+    "static/media/video5.jpg": "/CUDEMY/static/media/video5.1e9a75f5670988b776dc.jpg",
+    "static/media/video8.jpg": "/CUDEMY/static/media/video8.27a52f057703c52c2e2f.jpg",
+    "static/media/video3.jpg": "/CUDEMY/static/media/video3.7a52f859505385d07bad.jpg",
+    "static/media/video9.jpg": "/CUDEMY/static/media/video9.503de250d6c006cdafab.jpg",
+    "static/media/video1.jpg": "/CUDEMY/static/media/video1.bb6333b61d9b3c92bed3.jpg",
+    "static/media/video6.jpg": "/CUDEMY/static/media/video6.1a4543ed7ee7017ec734.jpg",
+    "static/media/img3.jpg": "/CUDEMY/static/media/img3.17bd4b5a1e6bf5aaff0f.jpg",
+    "static/media/video4.jpg": "/CUDEMY/static/media/video4.d38fe6487b642d3ac75a.jpg",
+    "static/media/img1.jpg": "/CUDEMY/static/media/img1.5f2e75f3b5daa73d9a42.jpg",
+    "static/media/video7.jpg": "/CUDEMY/static/media/video7.d096f1f85289a966b3b4.jpg",
+    "static/media/html.png": "/CUDEMY/static/media/html.7da83b1b4b2984ed1b20.png",
+    "static/media/react.svg": "/CUDEMY/static/media/react.f41f8fcbf0772f16ec57b3db64ba0b9f.svg",
+    "static/media/java.svg": "/CUDEMY/static/media/java.e762a078e3d03dbc7253140068f33ec7.svg",
+    "static/media/mongodb.svg": "/CUDEMY/static/media/mongodb.a024c32e7a5721f1c1a1dd0cdfdefe9c.svg",
+    "static/media/c.svg": "/CUDEMY/static/media/c.813ccd234efbeb18aea14ff858f84a23.svg",
+    "static/media/python.svg": "/CUDEMY/static/media/python.8cfa0a9db040ecc11a3017ff5536ef5e.svg",
+    "static/media/javascript.svg": "/CUDEMY/static/media/javascript.e7363ab96f901afdeb86963dd6a44ce2.svg",
+    "index.html": "/CUDEMY/index.html",
+    "static/media/angular.svg": "/CUDEMY/static/media/angular.c90b3f109b5470554ae6fd895b009a00.svg",
+    "static/media/css.svg": "/CUDEMY/static/media/css.b2d580078d2ad6af28d7580875672998.svg",
+    "main.84ad2ff4.css.map": "/CUDEMY/static/css/main.84ad2ff4.css.map",
+    "main.e7a004d0.js.map": "/CUDEMY/static/js/main.e7a004d0.js.map",
+    "787.b6218c4a.chunk.js.map": "/CUDEMY/static/js/787.b6218c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ad2ff4.css",
+    "static/js/main.e7a004d0.js"
+  ]
+}
